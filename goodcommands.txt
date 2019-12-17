@@ -7,8 +7,8 @@ screenshot
 # Preview a file (only .txt or related files)
 cat
 
-# Dowload any file
-dowload
+# Download any file
+download
 
 # Creates a window that asks for ther persons code for the computer (makes it look like safari is asking for it ;)
 stealpwd
